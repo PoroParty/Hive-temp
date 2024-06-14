@@ -1,0 +1,14 @@
+{
+  "icon": "Hive.png",
+  "name": "Hive",
+  "authors": [
+    "idk"
+  ],
+  "desc": "Welcome to hive",
+  "mods": [
+  "structurize",
+  "minecolonies"
+  ],
+  "version": "1",
+  "pack-format": "1"
+}
